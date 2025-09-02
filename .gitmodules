@@ -1,0 +1,6 @@
+[submodule "front-techblog"]
+	path = front-techblog
+	url = https://github.com/ramon541/front-techblog.git
+[submodule "back-techblog"]
+	path = back-techblog
+	url = https://github.com/ramon541/back-techblog.git
